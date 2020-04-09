@@ -1,0 +1,70 @@
+jbig2_symbol_dict.o: jbig2_symbol_dict.c /usr/include/stdc-predef.h \
+ config.h os_types.h config_types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/stdlib.h \
+ jbig2.h jbig2_priv.h jbig2_arith.h jbig2_arith_int.h jbig2_arith_iaid.h \
+ jbig2_huffman.h jbig2_generic.h jbig2_mmr.h jbig2_symbol_dict.h \
+ jbig2_text.h
+
+/usr/include/stdc-predef.h:
+
+config.h:
+
+os_types.h:
+
+config_types.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+jbig2.h:
+
+jbig2_priv.h:
+
+jbig2_arith.h:
+
+jbig2_arith_int.h:
+
+jbig2_arith_iaid.h:
+
+jbig2_huffman.h:
+
+jbig2_generic.h:
+
+jbig2_mmr.h:
+
+jbig2_symbol_dict.h:
+
+jbig2_text.h:

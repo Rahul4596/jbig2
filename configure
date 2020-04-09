@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd jbig2dec-0.10
+./configure
+cd ..

@@ -1,0 +1,44 @@
+jbig2_segment.o: jbig2_segment.c /usr/include/stdc-predef.h config.h \
+ os_types.h config_types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h jbig2.h jbig2_priv.h \
+ jbig2_symbol_dict.h jbig2_metadata.h
+
+/usr/include/stdc-predef.h:
+
+config.h:
+
+os_types.h:
+
+config_types.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+
+jbig2.h:
+
+jbig2_priv.h:
+
+jbig2_symbol_dict.h:
+
+jbig2_metadata.h:
